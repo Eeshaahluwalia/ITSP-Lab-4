@@ -23,4 +23,4 @@ class shape():
     def setstrokeColor(self, strokeColor): 
         self.strokeColor=strokeColor
     def setfillColor(self, setfillColor): 
-        self.setfillColor=setfillColor
+        self.fillColor=setfillColor
